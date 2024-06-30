@@ -2,7 +2,7 @@ public class PrintName {
        public static void main(String[] args) {
         for(int i=0;i<5;i++)
         {
-            System.out.println("Vaibhav");
+            System.out.println("Vaibhav Bhargava");
         }
        }
 }
